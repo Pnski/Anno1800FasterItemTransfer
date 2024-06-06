@@ -1,0 +1,52 @@
+{
+  "Version": "0.0.1",
+  "ModID": "FasterItemTransfer",
+  "DeprecateIds": [],
+  "LoadAfterIds": [],
+  "IncompatibleIds": null,
+  "ModDependencies": null,
+  "Category": {
+    "English": "Cheat",
+    "Chinese": "Cheat",
+    "French": "Cheat",
+    "German": "Cheat",
+    "Italian": "Cheat",
+    "Japanese": "Cheat",
+    "Korean": "Cheat",
+    "Polish": "Cheat",
+    "Russian": "Cheat",
+    "Spanish": "Cheat",
+    "Taiwanese": "Cheat"
+  },
+  "ModName": {
+    "Chinese": "Mod Item Transfer Depot",
+    "English": "Mod Item Transfer Depot",
+    "French": "Mod Item Transfer Depot",
+    "German": "Mod Item Transfer Depot",
+    "Italian": "Mod Item Transfer Depot",
+    "Japanese": "Mod Item Transfer Depot",
+    "Korean": "Mod Item Transfer Depot",
+    "Polish": "Mod Item Transfer Depot",
+    "Russian": "Mod Item Transfer Depot",
+    "Spanish": "Mod Item Transfer Depot",
+    "Taiwanese": "Mod Item Transfer Depot"
+  },
+  "Description": {
+    "English": null,
+    "German": null,
+    "Chinese": null,
+    "French": null,
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "KnownIssues": null,
+  "DLCDependencies": null,
+  "CreatorName": "Pnski",
+  "CreatorContact": null,
+  "Image": null
+}

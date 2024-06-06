@@ -1,0 +1,11 @@
+<ModOps>
+	<ModOp Type="merge" GUID='465' Path="/Values/ItemTransferFeature/ItemCooldowns/*/Duration">
+		<Duration>0</Duration>
+	</ModOp>
+	<ModOp Type="merge" GUID='465' Path="/Values/ItemTransferFeature/CreativeModeItemCooldown">
+		<CreativeModeItemCooldown>0</CreativeModeItemCooldown>
+	</ModOp>
+	<ModOp Type="merge" GUID='465' Path="/Values/ItemTransferFeature/MaxStorageSize">
+		<MaxStorageSize>50</MaxStorageSize>
+	</ModOp>
+</ModOps>
