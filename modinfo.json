@@ -1,8 +1,9 @@
 {
-  "Version": "0.0.1",
+  "Version": "0.0.2",
   "ModID": "UnleashItemTransfer",
   "DeprecateIds": [],
-  "LoadAfterIds": [],
+  "LoadAfterIds": ["Hackner_EnbesaMailIntegration",
+  "Hackner_ArcticAirshipPlatformEnhanced"],
   "IncompatibleIds": null,
   "ModDependencies": null,
   "Category": {
