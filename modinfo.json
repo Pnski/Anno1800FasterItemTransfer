@@ -1,6 +1,6 @@
 {
   "Version": "0.0.1",
-  "ModID": "FasterItemTransfer",
+  "ModID": "UnleashItemTransfer",
   "DeprecateIds": [],
   "LoadAfterIds": [],
   "IncompatibleIds": null,
@@ -19,17 +19,17 @@
     "Taiwanese": "Cheat"
   },
   "ModName": {
-    "Chinese": "Mod Item Transfer Depot",
-    "English": "Mod Item Transfer Depot",
-    "French": "Mod Item Transfer Depot",
-    "German": "Mod Item Transfer Depot",
-    "Italian": "Mod Item Transfer Depot",
-    "Japanese": "Mod Item Transfer Depot",
-    "Korean": "Mod Item Transfer Depot",
-    "Polish": "Mod Item Transfer Depot",
-    "Russian": "Mod Item Transfer Depot",
-    "Spanish": "Mod Item Transfer Depot",
-    "Taiwanese": "Mod Item Transfer Depot"
+    "Chinese": "Unleash Transfer Item Depot",
+    "English": "Unleash Transfer Item Depot",
+    "French": "Unleash Transfer Item Depot",
+    "German": "Unleash Transfer Item Depot",
+    "Italian": "Unleash Transfer Item Depot",
+    "Japanese": "Unleash Transfer Item Depot",
+    "Korean": "Unleash Transfer Item Depot",
+    "Polish": "Unleash Transfer Item Depot",
+    "Russian": "Unleash Transfer Item Depot",
+    "Spanish": "Unleash Transfer Item Depot",
+    "Taiwanese": "Unleash Transfer Item Depot"
   },
   "Description": {
     "English": null,
